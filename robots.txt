@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.xn--jiasula-rk1l99re58n.com/sitemap.xml
